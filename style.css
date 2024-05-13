@@ -360,7 +360,7 @@ textarea {
 
   @media (max-width: 768px) {
     .likes{
-        margin-inline-start:200px;
+        margin-inline-start:100px;
 
     }
 
